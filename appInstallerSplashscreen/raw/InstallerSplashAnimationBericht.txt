@@ -1,0 +1,24 @@
+Bericht erstellt: 
+	01.04.2022	16:05:19
+
+Projektname: InstallerSplashAnimation.aep
+
+Quelldateien gesammelt in: 
+	D:\Projekte\2021_Coh2_Playerstats\media-assets\appInstallerSplashscreen\raw
+
+Quelldateien gesammelt: Alle
+
+Gesammelte Kompositionen:  
+	InstallerSplash
+	BG
+	
+Anzahl der gesammelten Dateien:  1
+
+Größe der gesammelten Dateien:  1,9 MB
+
+Gesammelte Quelldateien: 
+	D:\InstallerSplash.psd
+	
+Render-Plug-in:
+	Klassisch 3D
+	
